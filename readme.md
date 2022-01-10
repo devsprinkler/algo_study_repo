@@ -7,4 +7,5 @@
 - 이정우 (sorious77@naver.com)
 
 ### [Week 1](https://github.com/devsprinkler/algo_study_repo/week_1)
+2022.01.10 ~ 2022.01.16
 
