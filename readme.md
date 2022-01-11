@@ -12,3 +12,4 @@
 
 - [BOJ1717 | 집합의 표현](https://www.acmicpc.net/problem/1717)
 - [BOJ1240 | 노드사이의 거리](https://www.acmicpc.net/problem/1240)
+- [BOJ23288 | 주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
