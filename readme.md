@@ -20,3 +20,4 @@
 
 - [BOJ16398 | 행성 연결](https://www.acmicpc.net/problem/16398)
 - [BOJ2411 | 아이템 먹기](https://www.acmicpc.net/problem/2411)
+- [BOJ15961 | 회전 초밥](https://www.acmicpc.net/problem/15961)
