@@ -19,3 +19,4 @@
 2022.01.17 ~ 2022.01.23
 
 - [BOJ16398 | 행성 연결](https://www.acmicpc.net/problem/16398)
+- [BOJ2411 | 아이템 먹기](https://www.acmicpc.net/problem/2411)
