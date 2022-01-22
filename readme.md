@@ -21,3 +21,10 @@
 - [BOJ16398 | 행성 연결](https://www.acmicpc.net/problem/16398)
 - [BOJ2411 | 아이템 먹기](https://www.acmicpc.net/problem/2411)
 - [BOJ15961 | 회전 초밥](https://www.acmicpc.net/problem/15961)
+
+
+### 🎈 [Week 3](https://github.com/devsprinkler/algo_study_repo/tree/main/week_3)
+
+2022.01.24 ~ 2022.01.30
+
+- [BOJ1756 | 피자 굽기](https://www.acmicpc.net/problem/1756)
