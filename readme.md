@@ -30,3 +30,9 @@
 - [BOJ1756 | 피자 굽기](https://www.acmicpc.net/problem/1756)
 - [Programmers | 다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
 - [BOJ2589 | 보물섬](https://www.acmicpc.net/problem/2589)
+
+### 🎈 [Week 3](https://github.com/devsprinkler/algo_study_repo/tree/main/week_4)
+
+2022.01.31 ~ 2022.02.06
+
+- [BOJ3078 | 좋은 친구](https://www.acmicpc.net/problem/3078)
