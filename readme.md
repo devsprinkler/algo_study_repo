@@ -2,9 +2,9 @@
 
 ### Member
 
-- 권민철 (dev.sprinkler@gmail.com)
-- 김도형 (dh54kim54@gmail.com)
-- 이정우 (sorious77@naver.com)
+- [권민철](https://github.com/devsprinkler) (dev.sprinkler@gmail.com)
+- [김도형](https://github.com/DooooH) (dh54kim54@gmail.com)
+- [이정우](https://github.com/sorious77) (sorious77@naver.com)
 
 ### 🎈 [Week 1](https://github.com/devsprinkler/algo_study_repo/tree/main/week_1)
 
