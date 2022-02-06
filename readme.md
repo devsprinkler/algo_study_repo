@@ -38,3 +38,9 @@
 - [BOJ3078 | 좋은 친구](https://www.acmicpc.net/problem/3078)
 - [BOJ17281 | ⚾](https://www.acmicpc.net/problem/17281)
 - [Programmers | 블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063)
+
+### 🎈 [Week 5](https://github.com/devsprinkler/algo_study_repo/tree/main/week_5)
+
+2022.02.07 ~ 2022.02.13
+
+- [BOJ9177 | 단어 섞기](https://www.acmicpc.net/problem/9177)
