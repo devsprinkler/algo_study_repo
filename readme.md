@@ -44,3 +44,4 @@
 2022.02.07 ~ 2022.02.13
 
 - [BOJ9177 | 단어 섞기](https://www.acmicpc.net/problem/9177)
+- [BOJ1727 | 커플 만들기](https://www.acmicpc.net/problem/1727)
