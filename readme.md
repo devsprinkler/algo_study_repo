@@ -52,3 +52,4 @@
 2022.02.14 ~ 2022.02.20
 - [BOJ2602 | 돌다리 건너기](https://www.acmicpc.net/problem/2602)
 - [BOJ2662 | 기업투자](https://www.acmicpc.net/problem/2662)
+- [Programmers | 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
