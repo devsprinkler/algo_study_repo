@@ -46,3 +46,8 @@
 - [BOJ9177 | 단어 섞기](https://www.acmicpc.net/problem/9177)
 - [BOJ1727 | 커플 만들기](https://www.acmicpc.net/problem/1727)
 - [BOJ16946 | 벽 부수고 이동하기4](https://www.acmicpc.net/problem/16946)
+
+### 🎈 [Week 6](https://github.com/devsprinkler/algo_study_repo/tree/main/week_6)
+
+2022.02.14 ~ 2022.02.20
+- [BOJ2602 | 돌다리 건너기](https://www.acmicpc.net/problem/2602)
