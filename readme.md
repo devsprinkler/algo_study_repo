@@ -53,3 +53,8 @@
 - [BOJ2602 | 돌다리 건너기](https://www.acmicpc.net/problem/2602)
 - [BOJ2662 | 기업투자](https://www.acmicpc.net/problem/2662)
 - [Programmers | 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+
+### 🎈 [Week 7](https://github.com/devsprinkler/algo_study_repo/tree/main/week_7)
+
+2022.02.21 ~ 2022.02.27
+- [BOJ2263 | 트리의 순회](https://www.acmicpc.net/problem/2263)
