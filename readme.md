@@ -58,3 +58,4 @@
 
 2022.02.21 ~ 2022.02.27
 - [BOJ2263 | 트리의 순회](https://www.acmicpc.net/problem/2263)
+- [BOJ1238 | 파티](https://www.acmicpc.net/problem/1238)
