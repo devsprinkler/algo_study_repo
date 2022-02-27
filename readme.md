@@ -60,3 +60,9 @@
 - [BOJ2263 | 트리의 순회](https://www.acmicpc.net/problem/2263)
 - [BOJ1238 | 파티](https://www.acmicpc.net/problem/1238)
 - [Programmers | 징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
+
+### 🎈 [Week 8](https://github.com/devsprinkler/algo_study_repo/tree/main/week_8)
+
+2022.02.28 ~ 2022.03.06
+- [BOJ2660 | 회장뽑기](https://www.acmicpc.net/problem/2660)
+
