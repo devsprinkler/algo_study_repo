@@ -1,5 +1,3 @@
-package algorithm.BOJ.P1238;
-
 import java.io.*;
 import java.util.*;
 

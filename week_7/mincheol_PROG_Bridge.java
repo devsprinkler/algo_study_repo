@@ -1,5 +1,3 @@
-package algorithm.PG.P64062;
-
 public class Main {
     public static int binarySearch(int[] stones, int k, int min, int max) {
         if (min == max) return min;
