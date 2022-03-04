@@ -33,7 +33,6 @@ public class BOJ2240 {
             dp[i][0] = dp[i - 1][0] + (plum[i] == 1 ? 1 : 0);
             answer = Math.max(answer, dp[i][0]);
 
-            // j가 짝수 -> 현재 1번 나무, j가 홀수 -> 현재 2번 나무
             for (int j = 1; j <= W; j++) {
                 dp[i][j] = Math.max(dp[i - 1][j - 1], dp[i - 1][j]);
 
