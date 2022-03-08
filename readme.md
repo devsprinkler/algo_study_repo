@@ -72,4 +72,4 @@
 2022.03.07 ~ 2022.03.13
 - [BOJ2098 | 외판원 순회](https://www.acmicpc.net/problem/2098)
 - [Programmers | 금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053)
-- [BOJ1766 |  ](https://www.acmicpc.net/problem/1766)
+- [BOJ1766 | 문제집 ](https://www.acmicpc.net/problem/1766)
