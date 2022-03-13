@@ -73,3 +73,9 @@
 - [BOJ2098 | 외판원 순회](https://www.acmicpc.net/problem/2098)
 - [Programmers | 금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053)
 - [BOJ1766 | 문제집 ](https://www.acmicpc.net/problem/1766)
+
+### 🎈 [Week 10](https://github.com/devsprinkler/algo_study_repo/tree/main/week_10)
+
+2022.03.14 ~ 2022.03.20
+- [BOJ9177 | 단어 섞기](https://www.acmicpc.net/problem/9177)
+- [BOJ1727 | 커플 만들기](https://www.acmicpc.net/problem/1727)
