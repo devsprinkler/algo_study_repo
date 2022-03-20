@@ -79,3 +79,8 @@
 2022.03.14 ~ 2022.03.20
 - [BOJ9177 | 단어 섞기](https://www.acmicpc.net/problem/9177)
 - [BOJ1727 | 커플 만들기](https://www.acmicpc.net/problem/1727)
+
+### 🎈 [Week 11](https://github.com/devsprinkler/algo_study_repo/tree/main/week_11)
+
+2022.03.21 ~ 2022.03.27
+- [BOJ14267 | 회사 문화1](https://www.acmicpc.net/problem/14267)
