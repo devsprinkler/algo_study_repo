@@ -86,3 +86,8 @@
 - [BOJ14267 | 회사 문화1](https://www.acmicpc.net/problem/14267)
 - [BOJ14719 | 빗물](https://www.acmicpc.net/problem/14719)
 - [BOJ16120 | PPAP](https://www.acmicpc.net/problem/16120)
+
+### 🎈 [Week 12](https://github.com/devsprinkler/algo_study_repo/tree/main/week_12)
+
+2022.03.28 ~ 2022.04.03
+- [BOJ1520 | 내리막 길](https://www.acmicpc.net/problem/1520)
