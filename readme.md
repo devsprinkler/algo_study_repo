@@ -92,4 +92,5 @@
 2022.03.28 ~ 2022.04.03
 - [BOJ1520 | 내리막 길](https://www.acmicpc.net/problem/1520)
 - [BOJ16957 | 체스판 위의 공](https://www.acmicpc.net/problem/16957)
+- [BOJ18808 | 스티커 붙이기](https://www.acmicpc.net/problem/18808)
 
