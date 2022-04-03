@@ -94,3 +94,7 @@
 - [BOJ16957 | 체스판 위의 공](https://www.acmicpc.net/problem/16957)
 - [BOJ18808 | 스티커 붙이기](https://www.acmicpc.net/problem/18808)
 
+### 🎈 [Week 13](https://github.com/devsprinkler/algo_study_repo/tree/main/week_13)
+
+2022.04.04 ~ 2022.04.10
+- [BOJ1953 | 팀 배분](https://www.acmicpc.net/problem/1953)
