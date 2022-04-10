@@ -100,3 +100,8 @@
 - [BOJ1953 | 팀 배분](https://www.acmicpc.net/problem/1953)
 - [BOJ13913 | 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [BOJ1818 | 책정리](https://www.acmicpc.net/problem/1818)
+
+### 🎈 [Week 14](https://github.com/devsprinkler/algo_study_repo/tree/main/week_14)
+
+2022.04.11 ~ 2022.04.17
+- [BOJ1704 | RGB거리 2](https://www.acmicpc.net/problem/17404)
