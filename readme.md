@@ -106,3 +106,4 @@
 2022.04.11 ~ 2022.04.17
 - [BOJ1704 | RGB거리 2](https://www.acmicpc.net/problem/17404)
 - [BOJ2023 | 신기한 소수](https://www.acmicpc.net/problem/2023)
+- [BOJ1818 | 책정리](https://www.acmicpc.net/problem/1818)
