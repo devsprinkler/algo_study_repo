@@ -112,3 +112,4 @@
 
 2022.04.18 ~ 2022.04.24
 - [BOJ14719 | 빗물](https://www.acmicpc.net/problem/14719)
+- [BOJ1744 | 수 묶기](https://www.acmicpc.net/problem/1744)
