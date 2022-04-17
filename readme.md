@@ -111,6 +111,6 @@
 ### 🎈 [Week 15](https://github.com/devsprinkler/algo_study_repo/tree/main/week_15)
 
 2022.04.18 ~ 2022.04.24
-- [BOJ14719 | 빗물](https://www.acmicpc.net/problem/14719)
+- [BOJ20118 | 호반우가 길을 건너간 이유](https://www.acmicpc.net/problem/20118)
 - [BOJ1744 | 수 묶기](https://www.acmicpc.net/problem/1744)
 - [Programmers | 공 이동 시뮬레이션](https://programmers.co.kr/learn/courses/30/lessons/87391)
