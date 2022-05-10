@@ -6,6 +6,10 @@
 - [김도형](https://github.com/DooooH) (dh54kim54@gmail.com)
 - [이정우](https://github.com/sorious77) (sorious77@naver.com)
 
+<details>
+<summary>Week 1 ~ 10</summary>
+<div markdown="1">
+
 ### 🎈 [Week 1](https://github.com/devsprinkler/algo_study_repo/tree/main/week_1)
 
 2022.01.10 ~ 2022.01.16
@@ -79,6 +83,9 @@
 2022.03.14 ~ 2022.03.20
 - [BOJ9177 | 단어 섞기](https://www.acmicpc.net/problem/9177)
 - [BOJ1727 | 커플 만들기](https://www.acmicpc.net/problem/1727)
+  
+</div>
+</details>
 
 ### 🎈 [Week 11](https://github.com/devsprinkler/algo_study_repo/tree/main/week_11)
 
