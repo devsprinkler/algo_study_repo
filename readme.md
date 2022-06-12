@@ -151,3 +151,8 @@
 
 2022.06.06 ~ 2022.06.12
 - [BOJ6497 | 전력난](https://www.acmicpc.net/problem/6497)
+
+### 🎈 [Week 22](/week_22)
+
+2022.06.13 ~ 2022.06.19
+- [BOJ16562 | 친구비](https://www.acmicpc.net/problem/16562)
