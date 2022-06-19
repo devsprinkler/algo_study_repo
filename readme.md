@@ -156,3 +156,8 @@
 
 2022.06.13 ~ 2022.06.19
 - [BOJ16562 | 친구비](https://www.acmicpc.net/problem/16562)
+
+### 🎈 [Week 23](/week_23)
+
+2022.06.20 ~ 2022.06.26
+- [BOJ2412 | 암벽 등반](https://www.acmicpc.net/problem/2412)
