@@ -179,5 +179,9 @@
 - [BOJ19238 | 스타트 택시](https://www.acmicpc.net/problem/19238)
 
 ### 🎈 [Week 26](/week_26)
-2022.07.11 ~ 2022.07.17
+2022.07.18 ~ 2022.07.24
 - [BOJ2638 | 치즈](https://www.acmicpc.net/problem/2638)
+
+### 🎈 [Week 27](/week_27)
+2022.07.25 ~ 2022.07.31
+- [BOJ2211 | 네트워크 복구](https://www.acmicpc.net/problem/2211)
