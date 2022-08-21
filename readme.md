@@ -193,3 +193,7 @@
 ### 🎈 [Week 29](/week_29)
 2022.08.08 ~ 2022.08.21
 - [BOJ2616 | 소형기관차](https://www.acmicpc.net/problem/2616)
+
+### 🎈 [Week 30](/week_30)
+2022.08.22 ~ 2022.08.28
+- [BOJ13334 | 철로](https://www.acmicpc.net/problem/13334)
