@@ -197,3 +197,7 @@
 ### 🎈 [Week 30](/week_30)
 2022.08.22 ~ 2022.08.28
 - [BOJ13334 | 철로](https://www.acmicpc.net/problem/13334)
+
+### 🎈 [Week 31](/week_31)
+2022.08.29 ~ 2022.09.04
+- [BOJ16724 | 피리 부는 사나이](https://www.acmicpc.net/problem/16724)
