@@ -201,3 +201,7 @@
 ### 🎈 [Week 31](/week_31)
 2022.08.29 ~ 2022.09.04
 - [BOJ16724 | 피리 부는 사나이](https://www.acmicpc.net/problem/16724)
+
+### 🎈 [Week 32](/week_32)
+2022.09.05 ~ 2022.09.18
+- [BOJ1937 | 욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
